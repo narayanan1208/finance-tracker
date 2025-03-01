@@ -1,0 +1,7 @@
+Django>=4.2
+djangorestframework  # REST API framework
+djangorestframework-simplejwt  # JWT authentication
+django-cors-headers  # CORS handling
+psycopg2-binary  # PostgreSQL adapter for Django
+gunicorn  # Production WSGI server
+python-dotenv  # Environment variable support
