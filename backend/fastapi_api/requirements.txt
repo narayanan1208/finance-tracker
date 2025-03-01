@@ -1,0 +1,9 @@
+fastapi  # FastAPI framework
+fastapi-jwt-auth  # JWT authentication with HTTP-only cookies
+uvicorn  # ASGI server for FastAPI
+pydantic  # Data validation
+sqlalchemy  # ORM for database interactions
+asyncpg  # PostgreSQL async driver
+python-dotenv  # Environment variable support
+passlib[bcrypt]  # Password hashing
+python-jose  # JWT token encoding/decoding
